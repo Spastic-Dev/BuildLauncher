@@ -1,0 +1,1 @@
+Extreme Paintbrawl as well would be a pretty neat one to have too just because of how much of a pain it is to get it setup properly in DOSBox on your own due to its nature of being a weird DOS and Windows hybrid game, but that one I can understand omitting
